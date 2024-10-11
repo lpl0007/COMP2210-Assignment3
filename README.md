@@ -1,4 +1,4 @@
-# COMP2210-Assignment3
+# COMP 2210: Assignment 3
 
 ## Problem Description
 You must develop the components of an autocomplete application. To keep things simple, we will assume that our autocomplete application will work in the context of something like a search engine. Autocomplete will take in a string (we’ll call it a prefix) and will output a list of likely completions (we’ll call each a query). So, a user could type a portion of a query and autocomplete would offer a list of predictions of the completed query that the user intends to complete. The strings can contain any Unicode character except newline.
